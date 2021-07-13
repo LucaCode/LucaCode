@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-### 🔭 My Projects
+### 🔭 My active projects
 
 - [Zation 🚀](https://github.com/ZationServer)
 - [Ziron ⚡](https://github.com/ZironServer)
+- [Tritag ✨](https://github.com/Tritag-Org)
 
 <!--
 ### GitHub Stats
